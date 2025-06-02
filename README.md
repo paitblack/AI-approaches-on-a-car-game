@@ -1,4 +1,4 @@
-# CENG-3511 Artificial Intelligence Midterm Project
+# CENG-3511 Artificial Intelligence Final Project
 ## AI Model's to Run a Game
 
 ## :bell: There is a detailed report existing in the repo.    
